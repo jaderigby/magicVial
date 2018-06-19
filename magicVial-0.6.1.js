@@ -3,7 +3,7 @@
 	Magic Vial
 
 	Liscensed under MIT
-	Copyright (c) 2014 -2015 - Jade C. Rigby
+	Copyright (c) 2014-2015 - Jade C. Rigby
 	
 	AUTHOR: Jade C. Rigby
 	DATE: 10/20/2014
